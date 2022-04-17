@@ -1,0 +1,30 @@
+/* All Properties should be in Alphabetical order */
+
+body {
+  background-color: #00ffff;
+}
+
+.h1:hover {
+  color: #e200e6;
+}
+.h3:hover {
+  color: #00C897;
+}
+.img {
+  border-radius: 5%;
+}
+
+.line {
+  background-color: aqua;
+  border-style: dotted none none;
+  border-width: 4px;
+  border-color: grey;
+  width: 4%;
+}
+
+h1 {
+  color: rgb(235, 74, 211);
+}
+h3 {
+  color: rgb(235, 74, 211);
+}
