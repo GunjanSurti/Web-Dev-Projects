@@ -6,7 +6,15 @@ var x = {
     age : 19, 
     gender :  "Male",    // no ";" instead do "," also not "=" but its ":" .
     languages : ["Gunjarati" , "Hindi" , "English"] , // array
+    moveSuitcase : function () {
+     alert("May I move your Suitcase, Sir!");
+     pickUpSuitcase();
+     move();
+    }
 }
+
+// x
+// {name: 'Gunjan', age: 19, gender: 'Male', languages: Array(3)}
 
 // x.name  -> finds property called name
 // 'Gunjan'    
