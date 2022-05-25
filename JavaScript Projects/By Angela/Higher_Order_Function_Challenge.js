@@ -18,3 +18,12 @@ function multiply(num1 ,num2 ) {
 function divide(num1 , num2) {
     return num1 / num2;
 }
+
+//calculator( 5 , 2 , multiply);
+//10
+
+// calculator( 5 , 2 , add);
+// 7
+//  calculator( 5 , 2 , divide);
+// 2.5
+
