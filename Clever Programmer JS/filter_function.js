@@ -1,3 +1,9 @@
+
+// higher order functions
+
+// filter - loops and returns an array with matching conditions
+
+
 let num = [1,5,8,44,6,9,3,55];
 
 
