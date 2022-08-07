@@ -1,0 +1,29 @@
+#clearButton{
+   display: flex;
+
+} 
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh; /*  vh = view port height screen size */
+}
+
+#red{
+   width: 100px;
+   height: 100px;
+   background-color: red; 
+}
+
+#yellow{
+    width: 100px;
+    height: 100px;
+    background-color: yellow; 
+ }
+
+ #blue{
+    width: 100px;
+    height: 100px;
+    background-color: blue; 
+ }
